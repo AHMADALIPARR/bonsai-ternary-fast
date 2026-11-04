@@ -1,0 +1,6 @@
+# SPDX-License-Identifier: AGPL-3.0-only OR LicenseRef-SnapKitty-Opaque-1.0
+# Copyright (C) 2026 Ahmad Ali Parr / SnapKitty Research Lab
+# btf_golden reference: bonsai-decoder CPU (ggml_act, kv_f16), greedy
+# text: <|im_start|>system\nReasoning effort is set to xhigh. Please think carefully through the task, validate key assumptions, consider plausible alternatives, and prioritize correctness, consistency, and clarity in the final answer.<|im_end|>\n<|im_start|>user\nHello!<|im_end|>\n<|im_start|>assistant\n<think>\n
+prompt:248045 8678 198 24342 286 4879 369 716 310 830 11553 13 5044 1683 15060 1472 279 3274 11 9307 1328 30800 11 2814 47675 25605 11 321 60445 55404 11 27224 11 321 30246 303 279 1534 4087 13 248046 198 248045 846 198 9419 0 248046 198 248045 74455 198 248068 198
+tokens:760 1156 1018 328 9419 8687 471 264 4145 40719 13 353 1220 5707 93040 321 17185 11 9976 424 9522 321 11321 13 2233 1144 364 34775 35358 466 5759 1532 13 198 248069 271 9419 0 2500 513 488 3604 30 2091 1017 2414 353 628 1438 488 440 3242 30 248046
